@@ -1,0 +1,522 @@
+[
+      {
+         "attributes":{
+            "OBJECTID":1,
+            "Name_Covernorate":"منطقة مكة المكرمة",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":1
+         },
+         "geometry":{
+            "x":41.15245352900007,
+            "y":21.668038808000063
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":2,
+            "Name_Covernorate":"منطقة نجران",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":4
+         },
+         "geometry":{
+            "x":47.448119924000082,
+            "y":18.698099829000057
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":3,
+            "Name_Covernorate":"منطقة جازان",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":6
+         },
+         "geometry":{
+            "x":42.743943887000057,
+            "y":17.247907855000051
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":4,
+            "Name_Covernorate":"منطقة الحدود الشمالية",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":7
+         },
+         "geometry":{
+            "x":43.510787869000069,
+            "y":29.319326362000083
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":5,
+            "Name_Covernorate":"منطقة الرياض",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":8
+         },
+         "geometry":{
+            "x":45.377798918000053,
+            "y":23.220372441000052
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":6,
+            "Name_Covernorate":"منطقة الجوف",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":9
+         },
+         "geometry":{
+            "x":39.380197948000045,
+            "y":29.954631619000054
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":7,
+            "Name_Covernorate":"منطقة تبوك",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":10
+         },
+         "geometry":{
+            "x":35.897130214000072,
+            "y":28.109975124000073
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":8,
+            "Name_Covernorate":"منطقة حائل",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":12
+         },
+         "geometry":{
+            "x":41.089256727000077,
+            "y":27.388450127000056
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":9,
+            "Name_Covernorate":"منطقة المدينة المنورة",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":13
+         },
+         "geometry":{
+            "x":39.36844467700007,
+            "y":24.90855848700005
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":10,
+            "Name_Covernorate":"منطقة عسير",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":14
+         },
+         "geometry":{
+            "x":42.91619551000008,
+            "y":19.191539367000075
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":11,
+            "Name_Covernorate":"منطقة الباحة",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":15
+         },
+         "geometry":{
+            "x":41.396235299000068,
+            "y":20.098190327000054
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":12,
+            "Name_Covernorate":"منطقة القصيم",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":16
+         },
+         "geometry":{
+            "x":43.017527786000073,
+            "y":26.279698688000053
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":13,
+            "Name_Covernorate":"منطقة الحدود الشرقية",
+            "Name_Country":"المملكة العربية السعودية",
+            "ID_Country":2,
+            "ID_Covernorate":18
+         },
+         "geometry":{
+            "x":50.033601748000081,
+            "y":23.551232322000089
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":14,
+            "Name_Covernorate":"الاسكندرية ",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":19
+         },
+         "geometry":{
+            "x":29.745014955000045,
+            "y":30.843922301000077
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":15,
+            "Name_Covernorate":"أسيوط",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":20
+         },
+         "geometry":{
+            "x":31.849193920000062,
+            "y":27.391416715000048
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":16,
+            "Name_Covernorate":"أسوان",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":21
+         },
+         "geometry":{
+            "x":32.981910354000036,
+            "y":22.458172510000054
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":17,
+            "Name_Covernorate":"البحيرة ",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":22
+         },
+         "geometry":{
+            "x":30.276030573000071,
+            "y":30.628919152000037
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":18,
+            "Name_Covernorate":"بنى سويف ",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":23
+         },
+         "geometry":{
+            "x":31.433032969000067,
+            "y":28.71870828100009
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":19,
+            "Name_Covernorate":"القاهرة",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":24
+         },
+         "geometry":{
+            "x":31.586346461000062,
+            "y":29.969330275000061
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":20,
+            "Name_Covernorate":"الدقهلية",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":25
+         },
+         "geometry":{
+            "x":31.575681974000076,
+            "y":31.003443960000084
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":21,
+            "Name_Covernorate":"دمياط ",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":26
+         },
+         "geometry":{
+            "x":31.656642936000082,
+            "y":31.391250217000049
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":22,
+            "Name_Covernorate":"الفيوم",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":27
+         },
+         "geometry":{
+            "x":30.808759769000062,
+            "y":29.281126033000078
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":23,
+            "Name_Covernorate":"الغربية",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":28
+         },
+         "geometry":{
+            "x":31.046354991000044,
+            "y":30.890910115000054
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":24,
+            "Name_Covernorate":"الجيزة",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":29
+         },
+         "geometry":{
+            "x":29.330616267000039,
+            "y":28.704012121000062
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":25,
+            "Name_Covernorate":"الإسماعيلية ",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":30
+         },
+         "geometry":{
+            "x":32.582132071000046,
+            "y":30.576446726000086
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":26,
+            "Name_Covernorate":"كفر الشيخ ",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":31
+         },
+         "geometry":{
+            "x":30.875391833000037,
+            "y":31.225227762000088
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":27,
+            "Name_Covernorate":"القليوبية ",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":32
+         },
+         "geometry":{
+            "x":31.27558951900005,
+            "y":30.302583570000081
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":28,
+            "Name_Covernorate":"مدينة الأقصر",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":33
+         },
+         "geometry":{
+            "x":32.683354242000064,
+            "y":25.630832472000066
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":29,
+            "Name_Covernorate":"مطروح",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":34
+         },
+         "geometry":{
+            "x":26.971310519000042,
+            "y":29.692918679000059
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":30,
+            "Name_Covernorate":"المنيا ",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":35
+         },
+         "geometry":{
+            "x":29.997359706000054,
+            "y":28.10751973400005
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":31,
+            "Name_Covernorate":"المنوفية ",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":36
+         },
+         "geometry":{
+            "x":30.998189976000049,
+            "y":30.507040054000072
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":32,
+            "Name_Covernorate":"الوادى الجديد",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":37
+         },
+         "geometry":{
+            "x":28.399059790000081,
+            "y":24.810226974000045
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":33,
+            "Name_Covernorate":"شمال سيناء ",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":38
+         },
+         "geometry":{
+            "x":33.767219326000088,
+            "y":30.42401830700004
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":34,
+            "Name_Covernorate":"بورسعيد",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":39
+         },
+         "geometry":{
+            "x":32.410870875000057,
+            "y":31.069864004000067
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":35,
+            "Name_Covernorate":"قنا",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":40
+         },
+         "geometry":{
+            "x":32.99146537200005,
+            "y":25.997611307000057
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":36,
+            "Name_Covernorate":"البحر الأحمر",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":41
+         },
+         "geometry":{
+            "x":34.332476513000074,
+            "y":24.007756541000049
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":37,
+            "Name_Covernorate":"الشرقية ",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":42
+         },
+         "geometry":{
+            "x":31.97300466900009,
+            "y":30.842337465000071
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":38,
+            "Name_Covernorate":"جنوب سيناء",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":43
+         },
+         "geometry":{
+            "x":33.799349587000052,
+            "y":29.021567840000046
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":39,
+            "Name_Covernorate":"السويس",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":44
+         },
+         "geometry":{
+            "x":32.188945956000055,
+            "y":29.620925860000057
+         }
+      },
+      {
+         "attributes":{
+            "OBJECTID":40,
+            "Name_Covernorate":"سوهاج",
+            "Name_Country":"جمهورية مصر العربية",
+            "ID_Country":1,
+            "ID_Covernorate":45
+         },
+         "geometry":{
+            "x":32.223524096000062,
+            "y":26.696151966000059
+         }
+      }
+   ]

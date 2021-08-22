@@ -1,0 +1,33 @@
+{
+    
+    "login_name":"user name",
+    "login_pass":"password",
+    "login_btn":"Login",
+    "login_loading":"signing in",
+
+    "home":"Home",
+    "profile":"Profile",
+    "setting":"Settings",
+    "logout":"Logout",
+    "change_lang":"Change Language",
+
+    "order_details":"Order's Details",
+    "order_num":"Order's ID",
+    "car_location":"Location",
+    "plate_num":"Plate Number",
+    "color":"Color",
+    "imgs":"Uploaded Images",
+    "notes":"Notes",
+
+    "create_order":"Create order",
+    "choose_city":"Choose City",
+    "choose_area":"Choose Area",
+    "choose_car":"Choose a car",
+    "choose_model":"Choose model",
+    "send_order":"Send",
+    "confirm":"Confirm",
+    "color_plate":"Plate's Color"
+
+
+
+}

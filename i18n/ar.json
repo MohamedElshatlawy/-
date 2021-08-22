@@ -1,0 +1,31 @@
+{
+    "login_name":"اسم المستخدم",
+    "login_pass":"كلمة المرور",
+    "login_btn":"تسجيل دخول",
+    "login_loading":"جاري تسجيل الدخول",
+
+
+    "home":"الرئيسية",
+    "profile":"الحساب الشخصي",
+    "setting":"الإعدادات",
+    "logout":"تسجيل خروج",
+    "change_lang":"تغيير اللغة",
+
+
+    "order_details":"تفاصيل الطلب",
+    "order_num":"رقم الطلب",
+    "car_location":"موقع السيارة",
+    "plate_num":"رقم اللوحة",
+    "color":"لون السيارة",
+    "imgs":"الصور المرفقة",
+    "notes":"عرض الملاحظات",
+
+    "create_order":"إنشاء طلب جديد",
+    "choose_city":"اختر المدينة",
+    "choose_area":"اختر الحي",
+    "choose_car":"اختر نوع السيارة",
+    "choose_model":"اختر فئة السيارة",
+    "send_order":"إرسال الطلب",
+    "confirm":"تأكيد",
+    "color_plate":"لون اللوحة"
+}

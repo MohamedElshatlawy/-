@@ -1,0 +1,377 @@
+[
+    {
+        "id": "1",
+        "name": "TOYOTA",
+        "ar_name": "تويوتا"
+    },
+    {
+        "id": "2",
+        "name": "Ford",
+        "ar_name": "فورد"
+    },
+    {
+        "id": "3",
+        "name": "Chevrolet",
+        "ar_name": "شيفروليه"
+    },
+    {
+        "id": "4",
+        "name": "Nissan",
+        "ar_name": "نيسان"
+    },
+    {
+        "id": "5",
+        "name": "Hyundai",
+        "ar_name": "هونداي"
+    },
+    {
+        "id": "6",
+        "name": "Genesis",
+        "ar_name": "جنسس"
+    },
+    {
+        "id": "7",
+        "name": "Lexus",
+        "ar_name": "لكزس"
+    },
+    {
+        "id": "8",
+        "name": "GMC",
+        "ar_name": "جي ام سي"
+    },
+    {
+        "id": "9",
+        "name": "Heavy trucks and equipment",
+        "ar_name": "شاحنات ومعدات ثقيلة"
+    },
+    {
+        "id": "11",
+        "name": "Mercedes Benz",
+        "ar_name": "مرسيدس"
+    },
+    {
+        "id": "12",
+        "name": "Honda",
+        "ar_name": "هوندا"
+    },
+    {
+        "id": "13",
+        "name": "BMW",
+        "ar_name": "بي إم دبليو"
+    },
+    {
+        "id": "14",
+        "name": "Motorcycle",
+        "ar_name": "دبابات"
+    },
+    {
+        "id": "15",
+        "name": "Kia",
+        "ar_name": "كيا"
+    },
+    {
+        "id": "16",
+        "name": "Dodge",
+        "ar_name": "دودج"
+    },
+    {
+        "id": "17",
+        "name": "Chrysler",
+        "ar_name": "كرايزلر"
+    },
+    {
+        "id": "18",
+        "name": "Jeep",
+        "ar_name": "جيب"
+    },
+    {
+        "id": "19",
+        "name": "Mitsubishi",
+        "ar_name": "ميتسوبيشي"
+    },
+    {
+        "id": "20",
+        "name": "Mazda",
+        "ar_name": "مازدا"
+    },
+    {
+        "id": "23",
+        "name": "Landrover",
+        "ar_name": "لاند روفر"
+    },
+    {
+        "id": "25",
+        "name": "Isuzu",
+        "ar_name": "ايسوزو"
+    },
+    {
+        "id": "26",
+        "name": "Cadillac",
+        "ar_name": "كاديلاك"
+    },
+    {
+        "id": "27",
+        "name": "Porsche",
+        "ar_name": "بورش"
+    },
+    {
+        "id": "28",
+        "name": "Audi",
+        "ar_name": "اودي"
+    },
+    {
+        "id": "29",
+        "name": "Suzuki",
+        "ar_name": "سوزوكي"
+    },
+    {
+        "id": "30",
+        "name": "Infiniti",
+        "ar_name": "انفنيتي"
+    },
+    {
+        "id": "31",
+        "name": "Hummer",
+        "ar_name": "همر"
+    },
+    {
+        "id": "32",
+        "name": "Lincoln",
+        "ar_name": "لنكولن"
+    },
+    {
+        "id": "33",
+        "name": "Volkswagen",
+        "ar_name": "فولكس واجن"
+    },
+    {
+        "id": "34",
+        "name": "DAIHATSU",
+        "ar_name": "ديهاتسو"
+    },
+    {
+        "id": "35",
+        "name": "Geely",
+        "ar_name": "جيلي"
+    },
+    {
+        "id": "36",
+        "name": "Mercury",
+        "ar_name": "ميركوري"
+    },
+    {
+        "id": "37",
+        "name": "VOLVO",
+        "ar_name": "فولفو"
+    },
+    {
+        "id": "38",
+        "name": "new4",
+        "ar_name": ""
+    },
+    {
+        "id": "39",
+        "name": "new5",
+        "ar_name": ""
+    },
+    {
+        "id": "40",
+        "name": "Peugeot",
+        "ar_name": "بيجو"
+    },
+    {
+        "id": "41",
+        "name": "Bentley",
+        "ar_name": "بنتلي"
+    },
+    {
+        "id": "42",
+        "name": "jaguar",
+        "ar_name": "جاكوار"
+    },
+    {
+        "id": "43",
+        "name": "Subaru",
+        "ar_name": "سوبارو"
+    },
+    {
+        "id": "44",
+        "name": "MG",
+        "ar_name": ""
+    },
+    {
+        "id": "45",
+        "name": "ZXAUTO",
+        "ar_name": ""
+    },
+    {
+        "id": "46",
+        "name": "Changan",
+        "ar_name": "شانجان"
+    },
+    {
+        "id": "47",
+        "name": "Renault",
+        "ar_name": "رينو"
+    },
+    {
+        "id": "48",
+        "name": "buick",
+        "ar_name": "بيوك"
+    },
+    {
+        "id": "49",
+        "name": "maserati",
+        "ar_name": "مازيراتي"
+    },
+    {
+        "id": "50",
+        "name": "Rolls Royce",
+        "ar_name": "رولز رويس"
+    },
+    {
+        "id": "51",
+        "name": "Lamborghini",
+        "ar_name": ""
+    },
+    {
+        "id": "52",
+        "name": "Opel",
+        "ar_name": ""
+    },
+    {
+        "id": "53",
+        "name": "Skoda",
+        "ar_name": ""
+    },
+    {
+        "id": "54",
+        "name": "Ferrari",
+        "ar_name": ""
+    },
+    {
+        "id": "55",
+        "name": "Citroen",
+        "ar_name": ""
+    },
+    {
+        "id": "56",
+        "name": "Chery",
+        "ar_name": ""
+    },
+    {
+        "id": "57",
+        "name": "Seat",
+        "ar_name": ""
+    },
+    {
+        "id": "58",
+        "name": "Daewoo",
+        "ar_name": ""
+    },
+    {
+        "id": "59",
+        "name": "SABB",
+        "ar_name": ""
+    },
+    {
+        "id": "60",
+        "name": "Fiat",
+        "ar_name": ""
+    },
+    {
+        "id": "61",
+        "name": "SsangYong",
+        "ar_name": ""
+    },
+    {
+        "id": "62",
+        "name": "Aston Martin",
+        "ar_name": ""
+    },
+    {
+        "id": "63",
+        "name": "proton",
+        "ar_name": ""
+    },
+    {
+        "id": "64",
+        "name": "Haval",
+        "ar_name": ""
+    },
+    {
+        "id": "65",
+        "name": "G A C",
+        "ar_name": ""
+    },
+    {
+        "id": "66",
+        "name": "Great Wall",
+        "ar_name": ""
+    },
+    {
+        "id": "67",
+        "name": "Faw",
+        "ar_name": ""
+    },
+    {
+        "id": "68",
+        "name": "BYD",
+        "ar_name": ""
+    },
+    {
+        "id": "69",
+        "name": "Alfa Romeo",
+        "ar_name": ""
+    },
+    {
+        "id": "70",
+        "name": "TATA",
+        "ar_name": ""
+    },
+    {
+        "id": "71",
+        "name": "JMC",
+        "ar_name": ""
+    },
+    {
+        "id": "72",
+        "name": "Jetour",
+        "ar_name": ""
+    },
+    {
+        "id": "73",
+        "name": "C M C",
+        "ar_name": ""
+    },
+    {
+        "id": "74",
+        "name": "Photon",
+        "ar_name": ""
+    },
+    {
+        "id": "75",
+        "name": "Victory Auto",
+        "ar_name": ""
+    },
+    {
+        "id": "76",
+        "name": "Lifan",
+        "ar_name": ""
+    },
+    {
+        "id": "77",
+        "name": "Maxxis",
+        "ar_name": ""
+    },
+    {
+        "id": "78",
+        "name": "mclaren",
+        "ar_name": ""
+    },
+    {
+        "id": "79",
+        "name": "JAC",
+        "ar_name": ""
+    }
+]
